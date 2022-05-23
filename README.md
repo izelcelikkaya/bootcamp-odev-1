@@ -17,3 +17,5 @@ https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminativ
 https://www.maniabedini.com/post/generative-vs-discriminative-learning-algorithms
 
 https://www.youtube.com/watch?v=HHNESCbZqUg
+
+https://learnopencv.com/generative-and-discriminative-models/
